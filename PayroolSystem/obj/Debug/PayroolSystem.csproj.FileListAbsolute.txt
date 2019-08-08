@@ -1,0 +1,33 @@
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe.config
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.pdb
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csprojAssemblyReference.cache
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Form1.resources
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Properties.Resources.resources
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.GenerateResource.cache
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.CoreCompileInputs.cache
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.exe
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.pdb
+C:\Users\SURESH\source\repos\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Payroll.resources
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe.config
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.pdb
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csprojAssemblyReference.cache
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Form1.resources
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Payroll.resources
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Properties.Resources.resources
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.GenerateResource.cache
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.CoreCompileInputs.cache
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.exe
+C:\Users\SURESH\Desktop\april work\28\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.pdb
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe.config
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.exe
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\bin\Debug\PayroolSystem.pdb
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csprojAssemblyReference.cache
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Form1.resources
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Payroll.resources
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.Properties.Resources.resources
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.GenerateResource.cache
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.exe
+C:\Users\Pranjal\Desktop\apoorv\PayroolSystem\PayroolSystem\obj\Debug\PayroolSystem.pdb
